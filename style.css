@@ -1,0 +1,24 @@
+html {
+    font-family: 'Honk', system-ui;
+    background-color: rgb(121, 21, 214);
+}
+
+.MainContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    color: rgb(245, 233, 65);
+}
